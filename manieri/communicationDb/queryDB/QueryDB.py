@@ -1,4 +1,5 @@
-import manieri.model.connectorDB.ConnectorMariaFatimaDB as con
+import manieri.communicationDb.connectorDB.ConnectorMariaFatimaDB as Con
+import manieri.communicationDb.queryDB.QueryDB as Qry
 
 class Query:
 

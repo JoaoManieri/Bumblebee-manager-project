@@ -1,5 +1,5 @@
-import manieri.model.connectorDB.ConnectorMariaFatimaDB as Con
-import manieri.model.queryDB.QueryDB as Qry
+import manieri.communicationDb.connectorDB.ConnectorMariaFatimaDB as Con
+import manieri.communicationDb.queryDB.QueryDB as Qry
 
 con = Con.Connector(host='-----host-----',
                     database='-----database-----',
